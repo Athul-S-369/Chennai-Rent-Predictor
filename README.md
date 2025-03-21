@@ -17,7 +17,7 @@ Department     : CINTEL
 College        : SRM KTR
 collage email  : as2227@srm.st.edu.in
 personal email : imathul270@gmail.com
-gith
+github          :Athul-S-369
 
 ```
 
