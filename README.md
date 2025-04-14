@@ -99,33 +99,7 @@ The application covers 16 prime locations in Chennai:
 - **Category 3**: ₹25,000 - ₹35,000
 - **Category 4**: ₹35,000+
 
-## 🚀 Installation Guide
 
-1. **Clone the Repository**
-   ```bash
-   git clone <repository-url>
-   cd rentpredicto
-   ```
-
-2. **Set Up Virtual Environment**
-   ```bash
-   python -m venv venv
-   source venv/bin/activate  # On Windows: venv\Scripts\activate
-   ```
-
-3. **Install Dependencies**
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-4. **Configure Chrome WebDriver**
-   - Download ChromeDriver from: https://sites.google.com/chromium.org/driver/
-   - Add to system PATH
-
-5. **Run the Application**
-   ```bash
-   python app.py
-   ```
 
 ## 📁 Project Structure
 
